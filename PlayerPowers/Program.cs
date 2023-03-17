@@ -14,7 +14,7 @@ namespace PlayerPowers
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter the number of players: ");
+            Console.Write("Enter the number of players: ");
             int n = int.Parse(Console.ReadLine());
 
             Power[][] playerPowers = new Power[n][];
@@ -26,7 +26,7 @@ namespace PlayerPowers
 
                 for (int j = 0; j < 3; j++)
                 {
-                    Console.Write($"Power {j + 1} | 0: None | 1: Fly | 2: XRayVision | 3: SuperStrength | ");
+                    Console.Write($"Power {j + 1} | 0: None | 1: Fly | 2: XRayVision | 3: SuperStrength | : ");
                     int input = int.Parse(Console.ReadLine());
 
                     switch (input)
