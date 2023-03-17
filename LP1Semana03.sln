@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySums", "ArraySums\Arra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerPerks", "PlayerPerks\PlayerPerks.csproj", "{4C93F63E-4B98-4AEE-996B-33279CA28DC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitBranching", "GitBranching\GitBranching.csproj", "{8B24EE67-B1C2-461C-9BEF-DECEEC22DA5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{4C93F63E-4B98-4AEE-996B-33279CA28DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C93F63E-4B98-4AEE-996B-33279CA28DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C93F63E-4B98-4AEE-996B-33279CA28DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B24EE67-B1C2-461C-9BEF-DECEEC22DA5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B24EE67-B1C2-461C-9BEF-DECEEC22DA5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B24EE67-B1C2-461C-9BEF-DECEEC22DA5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B24EE67-B1C2-461C-9BEF-DECEEC22DA5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
